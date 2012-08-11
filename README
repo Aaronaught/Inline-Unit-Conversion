@@ -1,5 +1,5 @@
-This is a simple user script I wrote to perform unit conversions (weights, measures, etc.) between Metric and Imperial.
+This is a simple user script I wrote to perform unit conversions (weights, measures, etc.) between Metric and Imperial. It will search for text that looks like Imperial units (e.g. "450 deg F" or "5 lbs") and convert them to help links with tooltips containing the metric equivalent.
 
-It is not perfect, but it gets the job done, most of the time.
+It is not perfect, but it generally gets the job done, most of the time, and doesn't get in your way.
 
 Use at your own risk.
